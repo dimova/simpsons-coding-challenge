@@ -4,7 +4,7 @@ tut-rest/rest/src/main/java/payroll/PayrollApplication.java
 on port 8083.
 
 The rest api is available at http://localhost:8083/quotes.
-REST operations supported incclude post, put, delete, get.
+REST operations supported include post, put, delete, get.
 
 # Our Coding Challenge!
 
