@@ -1,3 +1,11 @@
+# Solution:
+Run as spring boot application:
+tut-rest/rest/src/main/java/payroll/PayrollApplication.java
+on port 8083.
+
+The rest api is available at http://localhost:8083/quotes.
+REST operations supported incclude post, put, delete, get.
+
 # Our Coding Challenge!
 
 Create a basic java web application that uses the json documents in our data folder here to allow users to search for and view information on our characters and display some of their quotes.
